@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(taskkill:*)",
+      "WebFetch(domain:images.unsplash.com)",
+      "Bash(curl:*)",
+      "Bash(wait)"
+    ]
+  }
+}
